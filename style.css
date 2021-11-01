@@ -1,0 +1,10 @@
+em
+{
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-image: -webkit-linear-gradient(left, red, orange, yellow, green, blue, indigo, violet);
+}
+body
+{
+    background-color: rgb(176,242,182);
+}
