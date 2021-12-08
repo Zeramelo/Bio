@@ -2,11 +2,7 @@ em
 {
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
-background-image: -webkit-linear-gradient(left, red, orange, yellow, green, blue, indigo, violet);
-}
-body
-{
-    background-color: rgb(176,242,182);
+background-image: -webkit-linear-gradient(left, red, orange, yellow,green, blue, indigo, violet);
 }
 h1
 {
@@ -16,7 +12,7 @@ p
 {
 	font-size: medium;
 }
-.pain
+body
 {
-	font-style: normal;
+ text-align: center;
 }
